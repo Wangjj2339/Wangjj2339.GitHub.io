@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Wangjj2339.GitHub.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-17T07:50:28.547Z</updated>
+    <title>Jijin Wang ’blog</title>
+    <updated>2020-08-17T07:54:48.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Wangjj2339.GitHub.io"/>
     <link rel="self" href="https://Wangjj2339.GitHub.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>幻想的路总是为有信念的人准备着。</subtitle>
     <logo>https://Wangjj2339.GitHub.io/images/avatar.png</logo>
     <icon>https://Wangjj2339.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Jijin Wang ’blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Wangjj2339.GitHub.io/post/hello-gridea/</id>
